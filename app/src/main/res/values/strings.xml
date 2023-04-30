@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PerimeterFigures</string>
+    <string name="shape_label">Выберете фигуру:</string>
+    <string name="input_hint">Введите число</string>
+    <string name="calculate_button">Вычислить</string>
+    <string name="result_label">Последний результат:</string>
+    <string name="circle">Круг</string>
+    <string name="triangle">Треугольник</string>
+    <string name="rectangle">Прямоугольник</string>
+    <string name="result_second">Результат вычисления…</string>
+</resources>
